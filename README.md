@@ -65,7 +65,8 @@ In this step the ticket was change to emergency in the priority level since this
 
 Now the agent will communitate with the end user on this issue. The can give updates on the current issue. 
 
-![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/8c564a6c-66f5-4713-beae-d3b44f010aff)
+![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/914efdbd-a299-4503-bcff-eef5a6dcf172)
+
 
 
 
