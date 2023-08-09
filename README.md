@@ -35,7 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-Steve is creating a new ticket with the "business critical outage" topic selected. Once he submits, this will show up in the agent's helpdesk que.
+Steve is creating a new ticket with the "business critical outage" topic selected. Once he submits, this will show up in the agent's helpdesk queue.
 - ![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/9a97098d-f1f0-450a-b8fc-50b1fdb4324f)
 
 
