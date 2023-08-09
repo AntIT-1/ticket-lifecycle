@@ -36,16 +36,35 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 Steve is creating a new ticket with the "business critical outage" topic selected. Once he submits, this will show up in the agent's helpdesk queue.
-- ![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/9a97098d-f1f0-450a-b8fc-50b1fdb4324f)
+
+![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/9ef8c97f-ce1e-4fc5-b383-ac8061b0347d)
+
+![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/680a7171-9690-443a-9ac2-1de2fe87b038)
+
+
+
+
 
 
 Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs.
 
-![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/0552a306-b825-49dc-8bec-dc54582affa6)
+![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/859e1867-6ec0-4a60-a89b-0cded5d6e144)
 
-In this step the ticket was change to emergency in the priority level since this is a network outage which is stopping work productivity. The SLA was also change and this ticket is now assigned to an agent. 
 
-![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/945f5e4c-96fb-4e57-aa7a-c5b08b30a0cc)
+
+
+
+
+In this step the ticket was change to emergency in the priority level since this is a network outage which is stopping work productivity. The SLA was also changed and this ticket is now assigned to an agent. 
+
+![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/739ad142-8f02-40c6-8833-928c45200e25)
+
+![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/9d1e8ab1-ce20-46ab-b6a0-01d92ea5bfa8)
+
+![image](https://github.com/AntIT-1/ticket-lifecycle/assets/141161539/5a869fba-2bc9-4dfa-af9d-f37904efe847)
+
+
+
 
 
 
